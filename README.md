@@ -20,7 +20,7 @@ User Profile:
 
 Change your nickname
 
-Select interface language — Russian 🇷🇺, Kazakh 🇰🇿, English 🇬🇧
+Select interface language — Russian , Kazakh , English 
 
 Full Localization: The site automatically translates to the selected language.
 
