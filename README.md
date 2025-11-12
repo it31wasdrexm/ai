@@ -1,4 +1,4 @@
-🎓 AI Analyzer
+AI Analyzer
 
 video-https://drive.google.com/file/d/1R3IsUmRAO2KUNYMTNb-62EQ2bPVK-kgR/view?usp=sharing
 
@@ -6,25 +6,25 @@ View the Website-http://aianalyzer.ct.ws/
 
 AI Analyzer is a smart bot that analyzes resumes and evaluates your chances of getting into universities in the USA and Kazakhstan, while providing personalized advice on how to improve them.
 
-🚀 Key Features
+Key Features
 
-📄 Resume Analysis: Upload your resume, and the AI will evaluate your admission chances.
+Resume Analysis: Upload your resume, and the AI will evaluate your admission chances.
 
-🎯 Recommendations: The bot will suggest how to improve your chances of admission.
+Recommendations: The bot will suggest how to improve your chances of admission.
 
-🔑 OpenRouter API Integration: Used for processing and analyzing data.
+OpenRouter API Integration: Used for processing and analyzing data.
 
-👤 Login and Registration: User authentication system with profile saving.
+Login and Registration: User authentication system with profile saving.
 
-⚙️ User Profile:
+User Profile:
 
 Change your nickname
 
 Select interface language — Russian 🇷🇺, Kazakh 🇰🇿, English 🇬🇧
 
-🌐 Full Localization: The site automatically translates to the selected language.
+Full Localization: The site automatically translates to the selected language.
 
-🛠️ Technologies
+Technologies
 
 Frontend: HTML, CSS, JavaScript
 
@@ -34,7 +34,7 @@ Database: MySQL
 
 API: OpenRouter API
 
-💬 How It Works
+How It Works
 
 The user uploads a resume.
 
@@ -46,13 +46,13 @@ Admission probability (in %).
 
 Improvement suggestions (academic, language, extracurricular).
 
-📖 Example Scenario
+Example Scenario
 
-👩‍🎓 User uploads their resume →
-🤖 Bot responds: “Your chances of getting into a US university are 72%.
+User uploads their resume →
+Bot responds: “Your chances of getting into a US university are 72%.
 It is recommended to improve the ‘Experience’ section and add more academic achievements.”
 
-💡 Future Improvements
+Future Improvements
 
 Add visual statistics and graphs.
 
@@ -60,7 +60,7 @@ Expand the list of countries (e.g., Canada, Germany).
 
 Implement a scoring system (GPA calculator).
 
-🧠 Author
+Author
 
 it31wasdrexm
 
