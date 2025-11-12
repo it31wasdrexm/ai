@@ -1,0 +1,46 @@
+<?php
+
+$langs = [
+    'ru' => [
+        'home' => 'Главная',
+        'login' => 'Вход',
+        'logout' => 'Выход',
+        'register' => 'Регистрация',
+        'profile' => 'Профиль',
+        'welcome' => 'Добро пожаловать',
+        'language' => 'Язык',
+        'save' => 'Сохранить',
+        'add_post' => 'Добавить объявление',
+        'price' => 'Цена',
+        'description' => 'Описание',
+        'bot_reply' => 'Бот ответил:',
+    ],
+    'kk' => [
+        'home' => 'Басты бет',
+        'login' => 'Кіру',
+        'logout' => 'Шығу',
+        'register' => 'Тіркелу',
+        'profile' => 'Профиль',
+        'welcome' => 'Қош келдіңіз',
+        'language' => 'Тіл',
+        'save' => 'Сақтау',
+        'add_post' => 'Хабарландыру қосу',
+        'price' => 'Баға',
+        'description' => 'Сипаттама',
+        'bot_reply' => 'Боттың жауабы:',
+    ],
+    'en' => [
+        'home' => 'Home',
+        'login' => 'Login',
+        'logout' => 'Logout',
+        'register' => 'Register',
+        'profile' => 'Profile',
+        'welcome' => 'Welcome',
+        'language' => 'Language',
+        'save' => 'Save',
+        'add_post' => 'Add post',
+        'price' => 'Price',
+        'description' => 'Description',
+        'bot_reply' => 'Bot replied:',
+    ]
+];
