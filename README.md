@@ -1,6 +1,7 @@
 🎓 AI Analyzer
 
 video-https://drive.google.com/file/d/1R3IsUmRAO2KUNYMTNb-62EQ2bPVK-kgR/view?usp=sharing
+
 View the Website-http://aianalyzer.ct.ws/index.php
 
 AI Analyzer is a smart bot that analyzes resumes and evaluates your chances of getting into universities in the USA and Kazakhstan, while providing personalized advice on how to improve them.
