@@ -5,6 +5,7 @@ The project helps users evaluate their academic performance and receive recommen
 
 Video:
 https://drive.google.com/file/d/1R3IsUmRAO2KUNYMTNb-62EQ2bPVK-kgR/view?usp=sharing
+
 Website:
 http://aianalyzer.ct.ws/
 
@@ -24,8 +25,6 @@ Ability to insert resume text or upload a file
 Profile Analysis
 Selecting suitable universities
 Recommendations for improving the resume
-# Project Goal
-AI Analyzer was created to simplify the process of assessing admission chances and help users strategically improve their academic and professional profiles.
 
 # Author
 it31wasdrexm
