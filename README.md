@@ -1,67 +1,32 @@
-AI Analyzer
+##AI Analyzer
 
-video-https://drive.google.com/file/d/1R3IsUmRAO2KUNYMTNb-62EQ2bPVK-kgR/view?usp=sharing
+#AI Analyzer is a web application designed to easily analyze your chances of admission to international and national universities.
+The project helps users evaluate their academic performance and receive recommendations for improving their admissions profile.
 
-View the Website-http://aianalyzer.ct.ws/
+# Video:
+https://drive.google.com/file/d/1R3IsUmRAO2KUNYMTNb-62EQ2bPVK-kgR/view?usp=sharing
 
-AI Analyzer is a smart bot that analyzes resumes and evaluates your chances of getting into universities in the USA and Kazakhstan, while providing personalized advice on how to improve them.
+# Website:
+http://aianalyzer.ct.ws/
 
-Key Features
+# Main Features
+Account
+Account Registration
+Editing Personal Data
 
-Resume Analysis: Upload your resume, and the AI will evaluate your admission chances.
+# GPA Analyzer
+The user enters their GPA
+The system analyzes the score
+Provides a list of universities where they have a chance of admission
+Provides recommendations for improving the GPA
 
-Recommendations: The bot will suggest how to improve your chances of admission.
+# Resume Analysis
+Ability to insert resume text or upload a file
+Profile Analysis
+Selecting suitable universities
+Recommendations for improving the resume
+# Project Goal
+AI Analyzer was created to simplify the process of assessing admission chances and help users strategically improve their academic and professional profiles.
 
-OpenRouter API Integration: Used for processing and analyzing data.
-
-Login and Registration: User authentication system with profile saving.
-
-User Profile:
-
-Change your nickname
-
-Select interface language — Russian , Kazakh , English 
-
-Full Localization: The site automatically translates to the selected language.
-
-Technologies
-
-Frontend: HTML, CSS, JavaScript
-
-Backend: PHP
-
-Database: MySQL
-
-API: OpenRouter API
-
-How It Works
-
-The user uploads a resume.
-
-The bot analyzes it via the OpenRouter API.
-
-The user receives:
-
-Admission probability (in %).
-
-Improvement suggestions (academic, language, extracurricular).
-
-Example Scenario
-
-User uploads their resume →
-Bot responds: “Your chances of getting into a US university are 72%.
-It is recommended to improve the ‘Experience’ section and add more academic achievements.”
-
-Future Improvements
-
-Add visual statistics and graphs.
-
-Expand the list of countries (e.g., Canada, Germany).
-
-Implement a scoring system (GPA calculator).
-
-Author
-
+# Author
 it31wasdrexm
-
-Project created for educational purposes.
