@@ -1,26 +1,25 @@
 ## AI Analyzer
 
-# AI Analyzer is a web application designed to easily analyze your chances of admission to international and national universities.
+AI Analyzer is a web application designed to easily analyze your chances of admission to international and national universities.
 The project helps users evaluate their academic performance and receive recommendations for improving their admissions profile.
 
-# Video:
+Video:
 https://drive.google.com/file/d/1R3IsUmRAO2KUNYMTNb-62EQ2bPVK-kgR/view?usp=sharing
-
-# Website:
+Website:
 http://aianalyzer.ct.ws/
 
-# Main Features
+Main Features
 Account
 Account Registration
 Editing Personal Data
 
-# GPA Analyzer
+GPA Analyzer
 The user enters their GPA
 The system analyzes the score
 Provides a list of universities where they have a chance of admission
 Provides recommendations for improving the GPA
 
-# Resume Analysis
+Resume Analysis
 Ability to insert resume text or upload a file
 Profile Analysis
 Selecting suitable universities
