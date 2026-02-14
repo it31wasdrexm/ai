@@ -1,7 +1,7 @@
 <?php
 function analyzeWithOpenAI($prompt){
     $url = "https://openrouter.ai/api/v1/chat/completions";
-    $apiKey = "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"; // вставь свой ключ
+    $apiKey = ""
 
     $data = [
         "model"=>"gpt-4o-mini",
